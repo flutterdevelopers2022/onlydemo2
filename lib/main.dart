@@ -52,6 +52,8 @@ class _HomeState extends State<Home> {
     // TODO: implement initState
     super.initState();
     get_permission();
+    print("Hello good morning");
+
   }
   get_permission()
   async {
